@@ -1,0 +1,21 @@
+.card {
+  background: rgb(216, 213, 213);
+  color: rgb(0, 0, 0);
+  width: 200px;
+  height: 300px;
+  border: 1px solid black;
+  box-shadow: 0 0 15px;
+  border-radius: 15px;
+  margin: 10px;
+}
+.card img {
+  width: 120px;
+}
+
+.on {
+  background: blue;
+}
+
+.off {
+  background: black;
+}/*# sourceMappingURL=card.css.map */
