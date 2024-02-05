@@ -1,14 +1,11 @@
+import "./App.css";
+import { Usuario } from "./components/Usuario";
 
-import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      
-      <h1>hola mundo</h1>
-    
-      </header>
+      <Usuario nombre="Alvaro" edad={31} nacinalidad="Venezuela"/>
     </div>
   );
 }
